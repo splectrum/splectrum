@@ -1,0 +1,514 @@
+{
+  "23": {
+    "createdAt": "2025-07-16T10:50:57Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 23,
+    "state": "OPEN",
+    "title": "Create bare-for-pear/command-line-usage Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:57Z",
+    "cached_at": "2025-07-16T10:51:13.027892Z"
+  },
+  "22": {
+    "createdAt": "2025-07-16T10:50:55Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 22,
+    "state": "OPEN",
+    "title": "Create bare-for-pear/avsc Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:55Z",
+    "cached_at": "2025-07-16T10:51:13.028248Z"
+  },
+  "21": {
+    "createdAt": "2025-07-16T10:50:53Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 21,
+    "state": "OPEN",
+    "title": "Create bare-for-pear/command-line-args Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:53Z",
+    "cached_at": "2025-07-16T10:51:13.028260Z"
+  },
+  "20": {
+    "createdAt": "2025-07-16T10:50:52Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 20,
+    "state": "OPEN",
+    "title": "Create SPlectrum/SRS-documentation Repository One-Pager (Archived)",
+    "updatedAt": "2025-07-16T10:50:52Z",
+    "cached_at": "2025-07-16T10:51:13.028265Z"
+  },
+  "19": {
+    "createdAt": "2025-07-16T10:50:50Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 19,
+    "state": "OPEN",
+    "title": "Create SPlectrum/hello-splectrum Repository One-Pager (Archived)",
+    "updatedAt": "2025-07-16T10:50:50Z",
+    "cached_at": "2025-07-16T10:51:13.028269Z"
+  },
+  "18": {
+    "createdAt": "2025-07-16T10:50:49Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 18,
+    "state": "OPEN",
+    "title": "Create Sesameh/claude-prince2 Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:49Z",
+    "cached_at": "2025-07-16T10:51:13.028282Z"
+  },
+  "17": {
+    "createdAt": "2025-07-16T10:50:47Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 17,
+    "state": "OPEN",
+    "title": "Create Carambah/carambah Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:47Z",
+    "cached_at": "2025-07-16T10:51:13.028286Z"
+  },
+  "16": {
+    "createdAt": "2025-07-16T10:50:45Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 16,
+    "state": "OPEN",
+    "title": "Create Sesameh/claude-swift Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:45Z",
+    "cached_at": "2025-07-16T10:51:13.028289Z"
+  },
+  "15": {
+    "createdAt": "2025-07-16T10:50:43Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 15,
+    "state": "OPEN",
+    "title": "Create InfoMetish/InfoMetis Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:43Z",
+    "cached_at": "2025-07-16T10:51:13.028292Z"
+  },
+  "14": {
+    "createdAt": "2025-07-16T10:50:41Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 14,
+    "state": "OPEN",
+    "title": "Create SPlectrum/spl0 Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:41Z",
+    "cached_at": "2025-07-16T10:51:13.028296Z"
+  },
+  "13": {
+    "createdAt": "2025-07-16T10:50:40Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 13,
+    "state": "OPEN",
+    "title": "Create SPlectrum/spl1 Repository One-Pager",
+    "updatedAt": "2025-07-16T10:50:40Z",
+    "cached_at": "2025-07-16T10:51:13.028300Z"
+  },
+  "12": {
+    "createdAt": "2025-07-16T10:50:38Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 12,
+    "state": "OPEN",
+    "title": "Create Initial Org-Repo Folder Structure",
+    "updatedAt": "2025-07-16T10:50:38Z",
+    "cached_at": "2025-07-16T10:51:13.028304Z"
+  },
+  "11": {
+    "createdAt": "2025-07-16T10:50:37Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": null,
+    "number": 11,
+    "state": "OPEN",
+    "title": "Create Mermaid Overview Diagrams for Repository Evolution and Mature Structure",
+    "updatedAt": "2025-07-16T10:50:37Z",
+    "cached_at": "2025-07-16T10:51:13.028307Z"
+  },
+  "10": {
+    "createdAt": "2025-07-15T20:48:16Z",
+    "labels": [],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 10,
+    "state": "OPEN",
+    "title": "Document JavaScript + AVRO Architecture Pattern for SPlectrum",
+    "updatedAt": "2025-07-15T20:54:12Z",
+    "cached_at": "2025-07-16T10:51:13.028310Z"
+  },
+  "9": {
+    "createdAt": "2025-07-15T20:47:09Z",
+    "labels": [],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 9,
+    "state": "OPEN",
+    "title": "Document Happy Path + Deferred Exception Operational Pattern",
+    "updatedAt": "2025-07-15T20:54:11Z",
+    "cached_at": "2025-07-16T10:51:13.028313Z"
+  },
+  "8": {
+    "createdAt": "2025-07-15T20:46:21Z",
+    "labels": [],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 8,
+    "state": "OPEN",
+    "title": "Document Dual-Mode Execution Architecture for Event-Driven Choreography",
+    "updatedAt": "2025-07-15T20:54:09Z",
+    "cached_at": "2025-07-16T10:51:13.028316Z"
+  },
+  "7": {
+    "createdAt": "2025-07-14T18:07:32Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 7,
+    "state": "OPEN",
+    "title": "Create initial documentation for bare-for-pear organization",
+    "updatedAt": "2025-07-14T18:07:32Z",
+    "cached_at": "2025-07-16T10:51:13.028320Z"
+  },
+  "6": {
+    "createdAt": "2025-07-14T18:07:20Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 6,
+    "state": "OPEN",
+    "title": "Create initial documentation for Carambah organization",
+    "updatedAt": "2025-07-14T18:07:20Z",
+    "cached_at": "2025-07-16T10:51:13.028322Z"
+  },
+  "5": {
+    "createdAt": "2025-07-14T18:07:18Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 5,
+    "state": "OPEN",
+    "title": "Create initial documentation for InfoMetish organization",
+    "updatedAt": "2025-07-14T18:07:18Z",
+    "cached_at": "2025-07-16T10:51:13.028326Z"
+  },
+  "4": {
+    "createdAt": "2025-07-14T18:07:16Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 4,
+    "state": "OPEN",
+    "title": "Create initial documentation for SPlectrum organization",
+    "updatedAt": "2025-07-14T18:07:16Z",
+    "cached_at": "2025-07-16T10:51:13.028329Z"
+  },
+  "3": {
+    "createdAt": "2025-07-14T18:07:14Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 3,
+    "state": "OPEN",
+    "title": "Create initial documentation for Sesameh organization and Claude-Swift integration",
+    "updatedAt": "2025-07-14T18:07:14Z",
+    "cached_at": "2025-07-16T10:51:13.028333Z"
+  },
+  "2": {
+    "createdAt": "2025-07-14T18:07:12Z",
+    "labels": [
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0LA",
+        "name": "cross-repository",
+        "description": "Tasks that involve cross-repository coordination",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDOPLs-eM8AAAACFQq0xw",
+        "name": "inbox-task",
+        "description": "Tasks created from inbox processing",
+        "color": "7057ff"
+      }
+    ],
+    "milestone": {
+      "number": 1,
+      "title": "v0.1.0: Initial Documentation Setup",
+      "description": "Set up initial documentation framework and organization mapping for the SPlectrum ecosystem. This milestone establishes the foundational documentation structure needed for project navigation and understanding across all organizations (SPlectrum, InfoMetish, Sesameh, Carambah, bare-for-pear).",
+      "dueOn": null
+    },
+    "number": 2,
+    "state": "OPEN",
+    "title": "Create comprehensive documentation structure with organizational folders and placeholder files",
+    "updatedAt": "2025-07-14T18:07:12Z",
+    "cached_at": "2025-07-16T10:51:13.028336Z"
+  }
+}

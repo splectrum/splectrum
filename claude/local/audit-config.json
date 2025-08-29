@@ -1,0 +1,9 @@
+{
+  "auditLogPath": "/home/herma/jules-tenbos/splectrum/claude/project/audit/current/current.log",
+  "auditLogDirectory": "/home/herma/jules-tenbos/splectrum/claude/project/audit/current",
+  "projectRoot": "/home/herma/jules-tenbos/splectrum",
+  "scriptsPath": "/home/herma/jules-tenbos/splectrum/claude/wow/scripts",
+  "configVersion": "1.0.0",
+  "generatedBy": "SESSION_START",
+  "lastUpdated": "2025-07-16T10:44:58Z"
+}
